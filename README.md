@@ -16,10 +16,11 @@ Features:
 
 Setup Instructions
 1. Clone the repository:
-   git clone *https://github.com/yourusername/graph-database.git*
+   git clone https://github.com/yourusername/graph-database.git
    cd graph-database
 
 2. Install Python 3.x: Ensure you have Python 3.6 or later installed. You can check your Python version with:
+   python --version
 
 -------------------------------------------------------------------
 
