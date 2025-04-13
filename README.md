@@ -96,6 +96,7 @@ WHERE Person.age < 35
 
 
 Output:
+
 [
   {
     "path": ["Person:1", "WORKS_AT", "Company:101"],
